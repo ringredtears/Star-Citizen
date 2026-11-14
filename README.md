@@ -203,4 +203,4 @@ This repository serves as the official landing page for Star Citizen. The softwa
 **Get the most recent version of Star Citizen today!**
 
 ---
-**Last updated:** 2026-11-14 07:19:02 UTC
+**Last updated:** 2026-11-14 14:43:44 UTC
